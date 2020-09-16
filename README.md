@@ -1,4 +1,4 @@
-# Open-source RISC-V CPUs from Bluespec, Inc.
+# Open-source RISC-V CPUs from Bluespec, Inc. [Local Version]
 
 This is one of a family of free, open-source RISC-V CPUs created by Bluespec, Inc.
 
